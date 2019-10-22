@@ -1,0 +1,19 @@
+{
+  "name": "request-queue",
+  "version": "1.0.0",
+  "description": "RequestQueue",
+  "repository": "git@github.com:robinwp/EventEmitter.git",
+  "author": "robinwp <284595745@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
