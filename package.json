@@ -2,7 +2,7 @@
   "name": "request-queue",
   "version": "1.0.0",
   "description": "RequestQueue",
-  "repository": "git@github.com:robinwp/EventEmitter.git",
+  "repository": "git@github.com:robinwp/RequestQueue.git",
   "author": "robinwp <284595745@qq.com>",
   "license": "MIT",
   "private": true,
